@@ -1,0 +1,10 @@
+- title: "Resource Management with Deep Reinforcement Learning"
+  university: "Isfahan University of Technology"
+  year: "2022"
+  description: "I am working on utilizing Deep RL techniques for CPU and memory (cluster scheduling) resource management
+                and job scheduling. So far, I’ve implemented a simple environment with two resources,
+                e.g., CPU and memory, to schedule non-preemptive jobs. The agent learns to schedule jobs with PPO(Proximal Policy Optimization) algorithm.
+                Our goal is to improve this environment to have more complex features such as preemption, job fragmentation, etc.
+                <br>My research is under the supervision of Professor <a href=\"https://mrheidar.ir/\">Heidarpour</a>."
+  url: "https://github.com/AhmadrezaHadi/Resource-Management-DeepRL"
+

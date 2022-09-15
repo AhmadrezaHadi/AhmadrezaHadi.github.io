@@ -1,0 +1,38 @@
+---
+layout: page
+permalink: /education/
+title: Education
+subtitle: Online Courses
+---
+
+
+<div class="education">
+  <ul>
+    {%for ed in site.data.education%}
+    <li>
+      <i>{{ed.year}}</i>
+      <div class="details">
+        <b>{{ed.degree}} in {{ed.major}} </b><br>
+        <p>{{ed.location}}</p>
+      </div>
+    </li>
+    {%endfor%}
+  </ul>
+</div>
+
+<div class="education">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.subtitle }}</h1>
+  </header>
+  <ul>
+    {%for oc in site.data.online_courses%}
+    <li>
+      <i>{{oc.date}}</i>
+      <div class="details">
+        <b>{{oc.title}} - {{oc.url}}</b>
+        <p>{{oc.organization}}</p>
+      </div>
+    </li>
+    {%endfor%}
+  </ul>
+</div>

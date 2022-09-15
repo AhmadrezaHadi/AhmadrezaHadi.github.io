@@ -1,0 +1,30 @@
+- title: "Introduction to Reinforcement Learning"
+  date: "Sep. 2022"
+  organization: "Deepmind"
+  url: "<a href=\"https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&index=3\" target=\"_blank\">Course link</a>"
+
+- title: "Reinforcecment Learning in Python"
+  date: "Aug. 2022"
+  organization: "Udemy"
+  url: ""
+
+- title: "Convolutional Neural Networks"
+  date: "Jan. 2022"
+  organization: "Coursera-deeplearning.ai"
+  url: ""
+
+- title: "Structuring Machine Learning Projects"
+  date: "Dec. 2021"
+  organization: "Coursera-deeplearning.ai"
+  url: "<a href=\"https://www.coursera.org/account/accomplishments/certificate/R4Z963DCD2UA\" target=\"_blank\">Certificate</a>"
+
+- title: "Improving DNNs: Hyperparameter tuning, Regularization and Optimization"
+  date: "Nov. 2021"
+  organization: "Coursera-deeplearning.ai"
+  url: "<a href=\"https://www.coursera.org/account/accomplishments/certificate/AQCBME8J3DFC\" target=\"_blank\">Certificate</a>"
+
+- title: "Neural Networks and Deep Learning"
+  date: "Oct. 2021"
+  organization: "Coursera-deeplearning.ai"
+  url: "<a href=\"https://www.coursera.org/account/accomplishments/certificate/ZFPKBYR2EY6W\" target=\"_blank\">Certificate</a>"
+
