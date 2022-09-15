@@ -1,0 +1,10 @@
+- title: "DCGAN with PyTorch"
+  description: "Implementation of the Deep Convolutional GAN model using PyTorch on Celeba dataset and
+		visualizing models and Losses with TensorBoard."
+  url: ""
+
+- title: "Breast Cancer Classification"
+  description: "Final Data Mining project aimed to implement different ML and DL models to classify patients using their features. MLP, Decision Tree, and 	Random Forest are some models used
+		to classify patients in this project"
+  url: "https://github.com/AhmadrezaHadi/Data-Mining-Project"
+  

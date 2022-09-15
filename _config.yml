@@ -1,10 +1,10 @@
 # Site settings
 title: Ahmadreza Hadi
 general_email: ariuthadi@gmail.com
-academic_email: your_academic_email@univ
+# academic_email: your_academic_email@univ
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  Interesteed in AI & Deep Reinforcement Learning.
 
 # baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
@@ -13,7 +13,7 @@ url: "https://ahmadrezahadi.github.io" # the base hostname & protocol for your s
 # twitter_username: jekyllrb
 github_username: AhmadrezaHadi
 linkedin_username: ahmadreza-hadi
-facebook_username: facebook_username
+# facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
