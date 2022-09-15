@@ -1,10 +1,32 @@
-- title: "DCGAN with PyTorch"
+- year: "2022"
+  title: "DCGAN with PyTorch"
   description: "Implementation of the Deep Convolutional GAN model using PyTorch on Celeba dataset and
 		visualizing models and Losses with TensorBoard."
   url: ""
 
-- title: "Breast Cancer Classification"
+- year: "2022"
+  title: "Breast Cancer Classification"
   description: "Final Data Mining project aimed to implement different ML and DL models to classify patients using their features. MLP, Decision Tree, and 	Random Forest are some models used
 		to classify patients in this project"
   url: "https://github.com/AhmadrezaHadi/Data-Mining-Project"
   
+- year: "2021"
+  title: "Packet Sniffer and Port Scanner"
+  description: "Implementation of a simple Wireshark using python. The program can check open ports of
+  destination IP addresses and sniff packets, showing details of each packet on the terminal."
+  url: "https://github.com/AhmadrezaHadi/Python-Packet-Sniffer"
+
+- year: "2020"
+  title: "Operating Systems Project"
+  description: "My Operating Systems final project, Adding a new system call to the xv6 kernel."
+  url: "https://github.com/AhmadrezaHadi/Operating-System-Projectsw"
+
+- year: "2019"
+  title: "MIPS Architecture with Verilog"
+  description: "Implementation of MIPS architecture with verilog."
+  url: "https://github.com/AhmadrezaHadi/MIPS-Architecture-Using-Verilog"
+
+- year: "2018"
+  title: "SAMAVAR (Platform for Managing Sport Tournaments)"
+  description: "My final Advanced Programming course project, a platform for managing sport tournaments with C++ and Qt."
+  url: "https://github.com/AhmadrezaHadi/SamavarQt"

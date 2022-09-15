@@ -1,14 +1,17 @@
-- title: "About"
-  href: "/about/"
+- title: "Home"
+  href: "/"
 
+- title: "Education"
+  href: "/education"
+  
 - title: "Research"
   href: "/research/"
 
 - title: "Projects"
   href: "/projects/"
 
-- title: "Blog"
-  href: "/blog/"
+# - title: "Blog"
+  # href: "/blog/"
 
 - title: "CV"
   href: "/cv/"

@@ -9,7 +9,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 <ul>
 	{%for project in site.data.projects%}
 	<li>
-		<b>{{project.title}}</b>: {{project.description}}<br>
+		<b>{{project.year}} - {{project.title}}</b>: {{project.description}}<br>
 		<a href="{{project.url}}" target="_blank"><div class="color-button">code</div></a>
 	</li><br>
 	{%endfor%}
