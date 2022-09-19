@@ -13,15 +13,15 @@
 # - title: "Blog"
   # href: "/blog/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "Resume"
+  href: "/resume/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Courses Undertaken"
-      subhref: "/miscellany/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+# - title: "Miscellany"
+#   href: "/miscellany/"
+#   subcategories:
+#     - subtitle: "Courses Undertaken"
+#       subhref: "/miscellany/courses/"
+#     - subtitle: "Extracurriculars"
+#       subhref: "/miscellany/extracurricular/"
+#     - subtitle: "Travel"
+#       subhref: "/miscellany/travel/"
