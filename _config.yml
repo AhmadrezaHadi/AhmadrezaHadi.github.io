@@ -3,10 +3,9 @@ title: Ahmadreza Hadi
 general_email: ariuthadi@gmail.com
 # academic_email: your_academic_email@univ
 
-description: > # this means to ignore newlines until "baseurl:"
-  Interesteed in AI & Deep Learning.
 
 # baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
+description: "Interested in Serverless, Cloud Computing, and Distributed Systems."
 
 url: "https://ahmadrezahadi.github.io" # the base hostname & protocol for your site
 

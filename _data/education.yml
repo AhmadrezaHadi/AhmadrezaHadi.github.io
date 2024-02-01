@@ -1,10 +1,11 @@
+- degree: "Ph.D."
+  major: "Computer Science"
+  year: "2023--Present"
+  location: "Louisiana State University"
+  GPA: "A"
+
 - degree: "B.Sc."
   major: "Computer Engineering (Intelligent Systems)"
   year: "2018--2022"
   location: "Isfahan University of Technology"
   GPA: ""
-
-- degree: "High School Diploma"
-  major: "Mathematics"
-  year: "2014--2018"
-  location: "NODET(National Organization for Development of Exceptional Talents)"
